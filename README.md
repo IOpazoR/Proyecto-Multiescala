@@ -10,11 +10,13 @@ Parallel Computing Toolbox (opcional pero recomendado para velocidad) https://la
 Image Processing Toolbox (opcional pero recomendado para visualización) https://la.mathworks.com/products/image-processing.html
 
 ## Códigos presentes:
-run_demo.m Ejemplo de reconstrucción de fantoma con wavelets y con variación total (TV)
+run_demo.m Ejecución en una sola línea
+
+example.mlx Ejemplo interactivo de ejecución
 
 wWavelet.m Código para reconstruir QSM con regularización mediante wavelets
 
-wTV.m Código para reconstruir QSM con Variación Total
+wTV.m Código para reconstruir QSM con Variación Total (Milovic y Fuchs, 2021)
 
 ## Material adicional:
 spatial_res: tamaño de voxel
