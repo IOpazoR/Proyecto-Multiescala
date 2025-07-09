@@ -5,7 +5,9 @@ Este repositorio incluye el código del informe final del curso Procesamiento Mu
 ## Requisitos:
 Wavelet Toolbox https://la.mathworks.com/products/wavelet.html 
 
-Parallel Computing Toolbox (opcional pero recomendado) https://la.mathworks.com/products/parallel-computing.html
+Parallel Computing Toolbox (opcional pero recomendado para velocidad) https://la.mathworks.com/products/parallel-computing.html
+
+Image Processing Toolbox (opcional pero recomendado para visualización) https://la.mathworks.com/products/image-processing.html
 
 ## Códigos presentes:
 run_demo.m Ejemplo de reconstrucción de fantoma con wavelets y con variación total (TV)
