@@ -23,5 +23,10 @@ magn: imagen de magnitud
 
 chi_cosmos: fantoma con COSMOS de 12 orientaciones
 
+## Referencia:
+
+Uso de algoritmos multiescala como regulizadores en inversión del dipolo en QSM
+
 Ignacio Opazo Reyes
+
 2025
